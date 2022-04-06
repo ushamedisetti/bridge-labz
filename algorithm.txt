@@ -1,0 +1,68 @@
+Algorithm for python file :
+Step 1 :-
+              List/Filter only python files
+              Expected Result :    y.py
+                                             
+              
+Step 2 :-
+              Find a 'Name' of that Python Files
+              Expected Result :    y
+                                            
+Step 3 :-
+              Create a new folder with same name as a file-name
+               Expected Result : y/
+
+Step 4 :-
+              Create a new subfolder with same name as a file extension-name
+               Expected Result : py/
+
+Step 5 :-
+              Cut a original python files & paste into a specific same extention folder
+
+
+
+
+Algorithm for javafile :
+Step 1 :-
+              List/Filter only java files
+              Expected Result :    x.java
+                                             
+              
+Step 2 :-
+              Find a 'Name' of that Python Files
+              Expected Result :    x
+                                            
+Step 3 :-
+               Create a new folder with same name as a file-name
+               Expected Result : x/
+Step 4 :-
+              Create a new subfolder with same name as a file extension-name
+               Expected Result : java/
+
+Step 5 :-
+              Cut a original x.java files & paste into a specific same extention folder
+              
+
+
+
+Algorithm for javascript file :
+Step 1 :-
+              List/Filter only Javascript files
+              Expected Result :    z.js
+                                             
+              
+Step 2 :-
+              Find a 'Name' of that Javascript Files
+              Expected Result :    z
+                                            
+Step 3 :-
+               Create a new folder with same name as a file-name
+               Expected Result : z/
+
+Step 4 :-
+              Create a new subfolder with same name as a file extension-name
+               Expected Result : js/
+
+Step 5 :-
+              Cut a original javascript files & paste into a specific same extention folder
+

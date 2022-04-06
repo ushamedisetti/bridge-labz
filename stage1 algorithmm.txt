@@ -1,0 +1,29 @@
+Algorithm :
+step 1 :-
+       create a folder naming 'stage_1_review' using mkdir command
+       * now create files  x.java , y.py , z.js using touch command
+       *also create day4.sh , algorithm.txt
+       expected result
+               x.java
+               y.py
+               z.js
+               day4.sh
+               algorithm.txt
+step 2 :-
+     create three different folders X , Y , Z using mkdir command
+      expected result
+        X
+        Y
+        Z
+STEP 3 :-
+     Now create java folder, py folder and js folder in X, Y, Z respectively.
+
+
+step 4 :-
+     Using nano edit day4.sh and then write for-loop logic to send files to their respective folders
+     *Using bash compile day4.sh
+      Expected Result:
+                 x/java/x.java
+                 Y/py/y.py
+                 Z/js/z.js
+      

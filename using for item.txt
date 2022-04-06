@@ -1,0 +1,7 @@
+for item in 'ls*.java'
+ 
+      fileName='echo $item | awk -F.'{print $1}''
+     
+
+     mkdir $fileName
+    
